@@ -15,13 +15,13 @@
   <h3>⚡ Time Management, Reimagined. ⚡</h3>
 
   <p align="center">
-    <strong>Official binary releases and installer packages for VerdikOS — the autonomous, tamper-resistant desktop productivity & focus operating environment.</strong>
+    <strong>Official releases and installer packages for VerdikOS — the autonomous desktop productivity and focus operating environment.</strong>
   </p>
 
-  <!-- Auto-Detecting Live Badges (Updates Automatically on Every New Release) -->
+  <!-- Auto-Detecting Live Badges -->
   <p align="center">
     <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest">
-      <img src="https://img.shields.io/github/v/release/XhyNox/VerdikOS-EXE?style=for-the-badge&color=8b5cf6&label=Latest%20Version&logo=electron" alt="Latest Release" />
+      <img src="https://img.shields.io/github/v/release/XhyNox/VerdikOS-EXE?style=for-the-badge&color=8b5cf6&label=Latest%20Version" alt="Latest Release" />
     </a>
     <a href="https://github.com/XhyNox/VerdikOS-EXE/releases">
       <img src="https://img.shields.io/github/downloads/XhyNox/VerdikOS-EXE/total?style=for-the-badge&color=10b981&label=Total%20Downloads&logo=windows" alt="Total Downloads" />
@@ -62,10 +62,10 @@
 
 - [📥 Download & Installation](#-download--installation)
 - [✨ Key Features](#-key-features)
-- [🔄 Automated Over-The-Air Updates](#-automated-over-the-air-updates)
+- [🔄 Automated Updates](#-automated-updates)
 - [📦 Version History & Release Changelogs](#-version-history--release-changelogs)
 - [💻 System Requirements](#-system-requirements)
-- [🌐 Source Code & Repositories](#-source-code--repositories)
+- [🌐 Official Releases](#-official-releases)
 - [🤝 Community & Support](#-community--support)
 - [📄 License](#-license)
 
@@ -74,7 +74,7 @@
 ## 📥 Download & Installation
 
 ### Step 1: Download the Installer
-Click the badge below or visit the [Releases](https://github.com/XhyNox/VerdikOS-EXE/releases/latest) page:
+Click the download badge below or visit the [Releases](https://github.com/XhyNox/VerdikOS-EXE/releases/latest) page:
 
 <div align="center">
   <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest">
@@ -83,9 +83,9 @@ Click the badge below or visit the [Releases](https://github.com/XhyNox/VerdikOS
 </div>
 
 ### Step 2: Run Setup
-1. Double-click the downloaded setup file (e.g. **`VerdikOS Setup v2.0.0.exe`**).
-2. The installer will automatically configure VerdikOS, launch the background guardian monitor, and create desktop and start menu shortcuts.
-3. Set your **Master PIN** on first launch to protect your session policies.
+1. Double-click the downloaded setup file.
+2. The installer will automatically set up VerdikOS, launch protection, and create desktop and start menu shortcuts.
+3. Configure your personalized security PIN on first launch to protect your session policies.
 
 > [!NOTE]
 > If Windows SmartScreen appears during installation, click **"More info"** $\rightarrow$ **"Run anyway"**.
@@ -97,19 +97,19 @@ Click the badge below or visit the [Releases](https://github.com/XhyNox/VerdikOS
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ Kernel-Level Process Guard</h3>
+      <h3>🛡️ Autonomous Focus Guard</h3>
       <ul>
-        <li><b>Low-Overhead C++ Background Monitor</b> tracks active Windows processes in real-time.</li>
-        <li><b>Instant Sub-Millisecond Termination</b> of distracting applications and restricted games.</li>
-        <li><b>Tamper-Proof Auto-Resurrection</b> ensures continuous focus protection.</li>
+        <li><b>Native Process Monitoring</b> enforces your digital boundaries with near-instant response.</li>
+        <li><b>Instant Restrictive Action</b> suppresses distracting software and unauthorized games during study sessions.</li>
+        <li><b>Tamper-Resistant Engine</b> keeps protection active without accidental shutdowns.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🔒 Fullscreen Kiosk Lock Screen</h3>
+      <h3>🔒 Fullscreen Focus Lock</h3>
       <ul>
-        <li><b>Strict Kiosk Overlay</b> blocks desktop access during active lockdown sessions.</li>
-        <li><b>Anti-Bypass Shield</b> intercepts system shortcuts (<code>Alt+Tab</code>, <code>Win+D</code>, <code>Ctrl+Esc</code>).</li>
-        <li><b>Emergency Panic Hotkey</b> (<code>Win+Alt+L</code>) enables emergency resets protected by Master PIN.</li>
+        <li><b>Immersive Lockdown Screen</b> eliminates desktop distractions during active study sessions.</li>
+        <li><b>Distraction Shield</b> intercepts disruptive desktop switching and distractions.</li>
+        <li><b>Emergency Master Reset</b> enables verified recovery whenever necessary.</li>
       </ul>
     </td>
   </tr>
@@ -117,9 +117,9 @@ Click the badge below or visit the [Releases](https://github.com/XhyNox/VerdikOS
     <td width="50%" valign="top">
       <h3>⏳ 30-Minute Graceful Shutdown Delay</h3>
       <ul>
-        <li><b>Cool-Off Shutdown Timer</b> requires Master PIN authentication before initiating exit.</li>
-        <li><b>Glassmorphic Countdown Card</b> displays a digital timer, live progress bar, and instant cancellation.</li>
-        <li><b>Tray Synchronization</b> tracks remaining time directly in the Windows system tray.</li>
+        <li><b>Cool-Off Shutdown Timer</b> promotes intentional usage by preventing impulsive exits.</li>
+        <li><b>Modern Countdown Notification Card</b> displays real-time countdown progress and instant cancellation.</li>
+        <li><b>Live Tray Synchronization</b> provides seamless status monitoring in the Windows taskbar.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -127,25 +127,25 @@ Click the badge below or visit the [Releases](https://github.com/XhyNox/VerdikOS
       <ul>
         <li><b>Real-Time Focus Metrics</b> with daily goal progress, active focus streaks, and app time distribution.</li>
         <li><b>Integrated Pomodoro Engine</b> with customizable focus intervals and breaks.</li>
-        <li><b>Exam D-Day Target Countdown</b> prominently displayed in the top header.</li>
+        <li><b>Target Countdown Timer</b> prominently displayed in the top header.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>☁️ Cloud Synchronization & Auth</h3>
+      <h3>☁️ Cloud Synchronization & Accounts</h3>
       <ul>
-        <li><b>Cloud Sync</b> keeps policies, blocklists, and usage synced in real time across devices.</li>
-        <li><b>Secure JWT Authentication</b> with Google Sign-In & Offline Local Fallback.</li>
-        <li><b>Cloud Avatar Storage</b> for encrypted profile photo uploads and instant UI updates.</li>
+        <li><b>Real-Time Cloud Sync</b> keeps focus policies, blocklists, and streaks in sync across devices.</li>
+        <li><b>Seamless Account Authentication</b> with single sign-on & offline mode support.</li>
+        <li><b>Custom Avatar Cloud Storage</b> for profile customization and cross-device display.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>⚡ Automated Background Updates</h3>
       <ul>
-        <li><b>Over-the-Air Updates</b> powered by <code>electron-updater</code>.</li>
-        <li><b>Silent Background Download</b> with real-time progress tracking in Help & Support.</li>
-        <li><b>One-Click Restart & Install</b> applies updates seamlessly on demand or next reboot.</li>
+        <li><b>Automatic Over-The-Air Delivery</b> ensures your system always has the latest enhancements.</li>
+        <li><b>Silent Background Download</b> with live progress visibility inside the app.</li>
+        <li><b>One-Click Update Installation</b> applies upgrades smoothly on demand.</li>
       </ul>
     </td>
   </tr>
@@ -153,13 +153,13 @@ Click the badge below or visit the [Releases](https://github.com/XhyNox/VerdikOS
 
 ---
 
-## 🔄 Automated Over-The-Air Updates
+## 🔄 Automated Updates
 
 Once installed, VerdikOS keeps itself up to date automatically:
 
-1. **Automatic Check on Boot:** Checks for new releases 5 seconds after startup and on a recurring 4-hour background timer.
-2. **Delta Background Download:** Downloads new updates in the background without interrupting your workflow.
-3. **In-App Management:** Open **Help & Support** $\rightarrow$ **⚡ System Updates** to view download progress, check manually, or click **Restart & Install Update**.
+1. **Automatic Detection:** Checks for newly published updates on application launch and during background operation.
+2. **Bandwidth-Efficient Downloads:** Downloads updates silently without interrupting your workflow.
+3. **In-App Controls:** Access **Help & Support** $\rightarrow$ **⚡ System Updates** to view update status or install updates with a single click.
 
 ---
 
@@ -173,9 +173,9 @@ Once installed, VerdikOS keeps itself up to date automatically:
 
 | Version | Status | Release Date | Key Features & Highlights | Direct Link |
 | :---: | :---: | :---: | :--- | :---: |
-| **`v2.0.0`** | 🟢 **Latest** | *September 2026* | **Major Ecosystem Upgrade:** Complete glassmorphism UI overhaul, 30-min graceful shutdown cool-off card, `electron-updater` auto-updates, cloud avatar integration, enhanced anti-decompilation & string encryption. | [**View Release v2.0.0**](https://github.com/XhyNox/VerdikOS-EXE/releases/tag/v2.0.0) |
-| **`v1.5.0`** | 🟡 Stable | *July 2026* | Added real-time cloud sync, Google OAuth authentication flow, activity log deduplication, and customizable focus targets. | [**View Release v1.5.0**](https://github.com/XhyNox/VerdikOS-EXE/releases/tag/v1.5.0) |
-| **`v1.0.0`** | ⚪ Initial | *May 2026* | Initial release: C++ background process monitor, fullscreen kiosk lock, offline Master PIN encryption, and local usage tracking. | [**View Release v1.0.0**](https://github.com/XhyNox/VerdikOS-EXE/releases/tag/v1.0.0) |
+| **`v2.0.0`** | 🟢 **Latest** | *September 2026* | **Major Ecosystem Upgrade:** Modern glassmorphism UI redesign, 30-min graceful shutdown cool-off card, automated background updates, custom avatar cloud storage, and overall performance enhancements. | [**View Release v2.0.0**](https://github.com/XhyNox/VerdikOS-EXE/releases/tag/v2.0.0) |
+| **`v1.5.0`** | 🟡 Stable | *July 2026* | Added real-time cloud synchronization, account authentication, activity logging refinements, and customizable focus goals. | [**View Release v1.5.0**](https://github.com/XhyNox/VerdikOS-EXE/releases/tag/v1.5.0) |
+| **`v1.0.0`** | ⚪ Initial | *May 2026* | Initial release: Native focus guardian, fullscreen focus lock, offline PIN security, and productivity usage tracking. | [**View Release v1.0.0**](https://github.com/XhyNox/VerdikOS-EXE/releases/tag/v1.0.0) |
 
 ---
 
@@ -184,18 +184,16 @@ Once installed, VerdikOS keeps itself up to date automatically:
 | Component | Minimum Requirement | Recommended |
 | :--- | :--- | :--- |
 | **Operating System** | Windows 10 (64-bit) | Windows 11 (64-bit) |
-| **Processor** | Intel Core i3 / AMD Ryzen 3 | Intel Core i5 / AMD Ryzen 5 or higher |
+| **Processor** | Dual-core 2.0 GHz or higher | Quad-core modern processor |
 | **Memory (RAM)** | 2 GB RAM | 4 GB RAM or higher |
 | **Storage** | 200 MB free disk space | SSD Storage |
 | **Internet** | Required for cloud sync & updates | High-speed broadband |
 
 ---
 
-## 🌐 Source Code & Repositories
+## 🌐 Official Releases
 
-VerdikOS operates under a dual-repository model:
-
-* **Official EXE Releases & Binaries:** [github.com/XhyNox/VerdikOS-EXE](https://github.com/XhyNox/VerdikOS-EXE) *(This Repository)*
+* **Binary Distribution Repository:** [github.com/XhyNox/VerdikOS-EXE](https://github.com/XhyNox/VerdikOS-EXE)
 
 ---
 
@@ -220,7 +218,7 @@ VerdikOS operates under a dual-repository model:
   </a>
 
   <br/><br/>
-  <p>For questions, bug reports, or feature requests, feel free to open a GitHub Issue or reach out on Telegram.</p>
+  <p>For questions, feature feedback, or technical assistance, feel free to open a GitHub Issue or reach out on Telegram.</p>
 
 </div>
 
