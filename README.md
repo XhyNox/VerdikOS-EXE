@@ -18,7 +18,7 @@
     <strong>Official binary releases and installer packages for VerdikOS — the autonomous, tamper-resistant desktop productivity & focus operating environment.</strong>
   </p>
 
-  <!-- Shields & Status Badges -->
+  <!-- Auto-Detecting Live Badges (Updates Automatically on Every New Release) -->
   <p align="center">
     <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest">
       <img src="https://img.shields.io/github/v/release/XhyNox/VerdikOS-EXE?style=for-the-badge&color=8b5cf6&label=Latest%20Version&logo=electron" alt="Latest Release" />
@@ -26,11 +26,11 @@
     <a href="https://github.com/XhyNox/VerdikOS-EXE/releases">
       <img src="https://img.shields.io/github/downloads/XhyNox/VerdikOS-EXE/total?style=for-the-badge&color=10b981&label=Total%20Downloads&logo=windows" alt="Total Downloads" />
     </a>
+    <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest">
+      <img src="https://img.shields.io/github/downloads/XhyNox/VerdikOS-EXE/latest/total?style=for-the-badge&color=6366f1&label=Latest%20Downloads" alt="Latest Downloads" />
+    </a>
     <a href="https://github.com/XhyNox/VerdikOS-EXE">
       <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011%20(64--bit)-0078D6?style=for-the-badge&logo=windows" alt="Platform" />
-    </a>
-    <a href="https://github.com/XhyNox/VerdikOS">
-      <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code" />
     </a>
     <a href="https://github.com/XhyNox/VerdikOS-EXE/blob/main/LICENSE">
       <img src="https://img.shields.io/badge/License-ISC-blue?style=for-the-badge" alt="License" />
@@ -63,8 +63,7 @@
 - [📥 Download & Installation](#-download--installation)
 - [✨ Key Features](#-key-features)
 - [🔄 Automated Over-The-Air Updates](#-automated-over-the-air-updates)
-- [🛡️ Security Baseline](#️-security-baseline)
-- [📦 Version History & Changelog](#-version-history--changelog)
+- [📦 Version History & Release Changelogs](#-version-history--release-changelogs)
 - [💻 System Requirements](#-system-requirements)
 - [🌐 Source Code & Repositories](#-source-code--repositories)
 - [🤝 Community & Support](#-community--support)
@@ -84,7 +83,7 @@ Click the badge below or visit the [Releases](https://github.com/XhyNox/VerdikOS
 </div>
 
 ### Step 2: Run Setup
-1. Double-click **`VerdikOS Setup v2.0.0.exe`**.
+1. Double-click the downloaded setup file (e.g. **`VerdikOS Setup v2.0.0.exe`**).
 2. The installer will automatically configure VerdikOS, launch the background guardian monitor, and create desktop and start menu shortcuts.
 3. Set your **Master PIN** on first launch to protect your session policies.
 
@@ -164,13 +163,19 @@ Once installed, VerdikOS keeps itself up to date automatically:
 
 ---
 
-## 📦 Version History & Changelog
+## 📦 Version History & Release Changelogs
 
-| Version | Status | Release Date | Key Highlights |
-| :---: | :---: | :---: | :--- |
-| **`v2.0.0`** | 🟢 **Latest** | *September 2026* | **Major Ecosystem Upgrade:** Complete UI overhaul with glassmorphism, 30-min graceful shutdown cool-off card, `electron-updater` auto-updates, cloud avatar integration, enhanced anti-decompilation & string encryption. |
-| **`v1.5.0`** | 🟡 Stable | *July 2026* | Added cloud sync, Google OAuth login flow, real-time activity log deduplication, and customizable focus goals. |
-| **`v1.0.0`** | ⚪ Initial | *May 2026* | Initial release: C++ background process monitor, full-screen kiosk lock, offline Master PIN encryption, and local usage tracking. |
+<p align="center">
+  <a href="https://github.com/XhyNox/VerdikOS-EXE/releases">
+    <img src="https://img.shields.io/badge/🔗%20BROWSE%20ALL%20RELEASES%20%26%20CHANGELOGS%20ON%20GITHUB-1e1b4b?style=for-the-badge&logo=github&logoColor=white" height="38" alt="Browse All Releases" />
+  </a>
+</p>
+
+| Version | Status | Release Date | Key Features & Highlights | Direct Link |
+| :---: | :---: | :---: | :--- | :---: |
+| **`v2.0.0`** | 🟢 **Latest** | *September 2026* | **Major Ecosystem Upgrade:** Complete glassmorphism UI overhaul, 30-min graceful shutdown cool-off card, `electron-updater` auto-updates, cloud avatar integration, enhanced anti-decompilation & string encryption. | [**View Release v2.0.0**](https://github.com/XhyNox/VerdikOS-EXE/releases/tag/v2.0.0) |
+| **`v1.5.0`** | 🟡 Stable | *July 2026* | Added real-time cloud sync, Google OAuth authentication flow, activity log deduplication, and customizable focus targets. | [**View Release v1.5.0**](https://github.com/XhyNox/VerdikOS-EXE/releases/tag/v1.5.0) |
+| **`v1.0.0`** | ⚪ Initial | *May 2026* | Initial release: C++ background process monitor, fullscreen kiosk lock, offline Master PIN encryption, and local usage tracking. | [**View Release v1.0.0**](https://github.com/XhyNox/VerdikOS-EXE/releases/tag/v1.0.0) |
 
 ---
 
