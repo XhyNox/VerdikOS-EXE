@@ -163,19 +163,27 @@ Once installed, VerdikOS keeps itself up to date automatically:
 
 ---
 
-## 📦 Version History & Release Changelogs
+## 📦 Releases & Version Changelogs
 
-<p align="center">
-  <a href="https://github.com/XhyNox/VerdikOS-EXE/releases">
-    <img src="https://img.shields.io/badge/🔗%20BROWSE%20ALL%20RELEASES%20%26%20CHANGELOGS%20ON%20GITHUB-1e1b4b?style=for-the-badge&logo=github&logoColor=white" height="38" alt="Browse All Releases" />
+All current and past releases, version descriptions, changelogs, and binary assets are automatically tracked, archived, and served directly via GitHub Releases:
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest">
+    <img src="https://img.shields.io/github/v/release/XhyNox/VerdikOS-EXE?style=for-the-badge&color=8b5cf6&label=Latest%20Stable%20Release" alt="Latest Release" />
   </a>
-</p>
-
-| Version | Status | Release Date | Key Features & Highlights | Direct Link |
-| :---: | :---: | :---: | :--- | :---: |
-| **`v2.0.0`** | 🟢 **Latest** | *September 2026* | **Major Ecosystem Upgrade:** Modern glassmorphism UI redesign, 30-min graceful shutdown cool-off card, automated background updates, custom avatar cloud storage, and overall performance enhancements. | [**View Release v2.0.0**](https://github.com/XhyNox/VerdikOS-EXE/releases/tag/v2.0.0) |
-| **`v1.5.0`** | 🟡 Stable | *July 2026* | Added real-time cloud synchronization, account authentication, activity logging refinements, and customizable focus goals. | [**View Release v1.5.0**](https://github.com/XhyNox/VerdikOS-EXE/releases/tag/v1.5.0) |
-| **`v1.0.0`** | ⚪ Initial | *May 2026* | Initial release: Native focus guardian, fullscreen focus lock, offline PIN security, and productivity usage tracking. | [**View Release v1.0.0**](https://github.com/XhyNox/VerdikOS-EXE/releases/tag/v1.0.0) |
+  <a href="https://github.com/XhyNox/VerdikOS-EXE/releases">
+    <img src="https://img.shields.io/github/release-date/XhyNox/VerdikOS-EXE?style=for-the-badge&color=0ea5e9&label=Release%20Date" alt="Release Date" />
+  </a>
+  <a href="https://github.com/XhyNox/VerdikOS-EXE/releases">
+    <img src="https://img.shields.io/github/downloads/XhyNox/VerdikOS-EXE/total?style=for-the-badge&color=10b981&label=Total%20Downloads" alt="Total Downloads" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/XhyNox/VerdikOS-EXE/releases">
+    <img src="https://img.shields.io/badge/📂%20VIEW%20ALL%20PAST%20VERSIONS%20%26%20CHANGELOGS%20ON%20GITHUB-1e1b4b?style=for-the-badge&logo=github&logoColor=white" height="42" alt="View All Past Versions & Changelogs" />
+  </a>
+  <br/><br/>
+</div>
 
 ---
 
