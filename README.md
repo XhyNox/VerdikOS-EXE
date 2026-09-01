@@ -44,7 +44,7 @@
         <td align="center" style="padding: 22px 32px; background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); border-radius: 18px;">
           <h3>🚀 Ready to Supercharge Your Productivity?</h3>
           <p style="color: #cbd5e1; margin-bottom: 14px;">Download the official standalone installer with automated background updates enabled.</p>
-          <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest/download/VerdikOS%20Setup%20v2.0.0.exe">
+          <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest/download/VerdikOS.Setup.v2.0.0.exe">
             <img src="https://img.shields.io/badge/⚡%20SINGLE--CLICK%20DOWNLOAD%20VERDIKOS%20(.EXE)-6366f1?style=for-the-badge&logoColor=white" height="46" alt="Direct Download VerdikOS Installer" />
           </a>
         </td>
@@ -78,7 +78,7 @@ Click the direct download button below to instantly start downloading the Window
 
 <div align="center">
   <br/>
-  <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest/download/VerdikOS%20Setup%20v2.0.0.exe">
+  <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest/download/VerdikOS.Setup.v2.0.0.exe">
     <img src="https://img.shields.io/badge/⬇️%20Direct%20Download-VerdikOS%20Setup%20v2.0.0%20(64--bit)-10b981?style=for-the-badge&logo=windows&logoColor=white" height="42" alt="Direct Download VerdikOS Setup" />
   </a>
   <br/><br/>
