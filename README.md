@@ -44,8 +44,8 @@
         <td align="center" style="padding: 22px 32px; background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%); border-radius: 18px;">
           <h3>🚀 Ready to Supercharge Your Productivity?</h3>
           <p style="color: #cbd5e1; margin-bottom: 14px;">Download the official standalone installer with automated background updates enabled.</p>
-          <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest/download/VerdikOS.Setup.v2.0.0.exe">
-            <img src="https://img.shields.io/badge/⚡%20SINGLE--CLICK%20DOWNLOAD%20VERDIKOS%20(.EXE)-6366f1?style=for-the-badge&logoColor=white" height="46" alt="Direct Download VerdikOS Installer" />
+          <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest">
+            <img src="https://img.shields.io/badge/⚡%20DOWNLOAD%20LATEST%20RELEASE%20(.EXE)-6366f1?style=for-the-badge&logoColor=white" height="46" alt="Download Latest VerdikOS Installer" />
           </a>
         </td>
       </tr>
@@ -74,12 +74,12 @@
 ## 📥 Direct Download & Installation
 
 ### Step 1: Download the Installer
-Click the direct download button below to instantly start downloading the Windows setup:
+Click the download button below to get the latest Windows setup from official releases:
 
 <div align="center">
   <br/>
-  <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest/download/VerdikOS.Setup.v2.0.0.exe">
-    <img src="https://img.shields.io/badge/⬇️%20Direct%20Download-VerdikOS%20Setup%20v2.0.0%20(64--bit)-10b981?style=for-the-badge&logo=windows&logoColor=white" height="42" alt="Direct Download VerdikOS Setup" />
+  <a href="https://github.com/XhyNox/VerdikOS-EXE/releases/latest">
+    <img src="https://img.shields.io/badge/⬇️%20Download%20Latest%20Release%20(64--bit)-10b981?style=for-the-badge&logo=windows&logoColor=white" height="42" alt="Download Latest VerdikOS Setup" />
   </a>
   <br/><br/>
 </div>
